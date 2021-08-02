@@ -2,7 +2,7 @@
 
 Perfect day!
 
-I am Yongeun Kwon who is interested in Web development which is using JAva programming language from Republic of Korea.
+I am Yongeun Kwon who is interested in Web development which is using Java programming language from Republic of Korea.
 
 If you want to contact me, please send me an email and visit my blogs.
 
