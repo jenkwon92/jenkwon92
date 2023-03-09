@@ -12,7 +12,7 @@ If you want to contact me, please send me an email and visit my blogs.
 
 - 🌱 Study Blog : https://bambino-developer.tistory.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenkwon92&show_icons=true&theme=radical)
 <!--
 **jenkwon92/jenkwon92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
