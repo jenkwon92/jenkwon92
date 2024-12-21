@@ -23,7 +23,5 @@ Here are some ideas to get you started:
 
 - 🌱 Study Blog : https://bambino-developer.tistory.com
 
-- 😄 Daily Blog : https://blog.naver.com/rlooko
-
 
 -->
